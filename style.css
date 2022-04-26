@@ -1,0 +1,109 @@
+.top{
+    width: 100%;
+    height: 150Px;
+    background-color: Red;
+}
+.logo{
+    width: 25%;
+    height: 150Px;
+    background-color: brown;
+    float: left;
+}
+.banner{
+    width: 75%;
+    height: 150Px;
+    background-color: antiquewhite;
+    float: right;
+}
+.menu{
+    width: 100%;
+    height: 50Px;
+    background-color: blue;
+}
+.main{
+    width: 100%;
+    height: 650Px;
+    margin: 1%;
+    background-color: yellow;
+}
+.danhmuc{
+    width: 15%;
+    height: 650px;
+    background-color: #FF00FF;
+    float: left;
+}
+.danhmuc1{
+    width: auto;
+    height: 40%;
+    background-color: #00CC00;
+}
+.danhmuc2{
+    width: auto;
+    height: 60%;
+    background-color: 	#6699CC;
+}
+.hotnew{
+    width: 70%;
+    height: 650Px;
+    background-color: #00FF00;
+    float: left;
+}
+.hotnew1{
+    width: 50%;
+    height: 34%;
+    background-color: 	#6666FF;
+    float: left;
+}
+.hotnew2{
+    width: 50%;
+    height: 34%;
+    background-color: #003333;
+    float: right;
+}
+.new1{
+    width: 33%;
+    height: 33%;
+    background-color: #00CC00;
+    float: left;
+}
+.new2{
+    width: 34%;
+    height: 33%;
+    background-color: 	#0000FF;
+    float: left;
+}
+.new3{
+    width: 33%;
+    height: 33%;
+    background-color:#FF0066;
+    float: right;
+}
+.new4{
+    width: 33%;
+    height: 33%;
+    background-color:#FF0066;
+    float: left;
+}
+.new5{
+    width: 34%;
+    height: 33%;
+    background-color: #00CC00;
+    float: left;
+}
+.new6{
+    width: 33%;
+    height: 33%;
+    background-color: 	#0000FF;
+    float: right;
+}
+.lich{
+    width: 15%;
+    height: 650Px;
+    background-color: #BB0000;
+    float: right;
+}
+.bot{
+    width: 100%;
+    height: 50Px;
+    background-color: Red;
+}
